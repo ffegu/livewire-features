@@ -1,0 +1,22 @@
+{
+  "name": "livewire-features",
+  "version": "1.0.0",
+  "description": "Livewire features",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "livewire",
+    "sweetalert",
+    "livewiresweetalert",
+    "sweetalert2",
+    "livewireloading"
+  ],
+  "author": "Pran Pegu",
+  "license": "ISC",
+  "dependencies": {
+    "js-loading-overlay": "^1.0.5",
+    "sweetalert2": "^10.10.0"
+  }
+}
