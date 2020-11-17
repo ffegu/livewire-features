@@ -1,6 +1,6 @@
 {
   "name": "@ffegu/livewire-features",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Livewire features",
   "main": "index.js",
   "scripts": {
