@@ -1,5 +1,5 @@
 {
-  "name": "livewire-features",
+  "name": "@ffegu/livewire-features",
   "version": "1.0.0",
   "description": "Livewire features",
   "main": "index.js",
@@ -18,5 +18,14 @@
   "dependencies": {
     "js-loading-overlay": "^1.0.5",
     "sweetalert2": "^10.10.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ffegu/livewire-features.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ffegu/livewire-features/issues"
+  },
+  "homepage": "https://github.com/ffegu/livewire-features#readme"
 }

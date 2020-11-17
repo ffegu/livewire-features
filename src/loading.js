@@ -1,7 +1,7 @@
 require('js-loading-overlay');
 window.addEventListener('DOMContentLoaded', () => {
 
-    let loaders = [ 'next', 'previous' ];
+   let loaders = require('./../../../../loading.json').loaders;
     for (var i = 0; i < loaders.length; i++) {
         $("#" + loaders[i]).on('click', function() {
           if (!document.getElementById('overlay')) {
