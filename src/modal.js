@@ -7,4 +7,13 @@ window.addEventListener('DOMContentLoaded', () => {
         $("#exampleModalScrollable").modal('hide')
   });
 
+
+    Livewire.on('showGatewayModal', () => {
+          $("#GatewayModal").modal('show')
+    });
+
+    Livewire.on('hideGatewayModal', () => {
+          $("#GatewayModal").modal('hide')
+    });
+
 });
